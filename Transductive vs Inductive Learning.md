@@ -1,3 +1,5 @@
+[](https://velog.io/@kimdyun/Inductive-Transductive-Learning-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+
 ### 🤔 이번 시간에는 Inductive Learning과 Transductive Learning의 차이점에 대해 소개를 해보려고 한다.
 
 Inductive Learning을 직역하면 귀납적 학습, Transductive Learning은 ... 직역조차 애매하다.
